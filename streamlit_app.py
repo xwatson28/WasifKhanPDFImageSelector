@@ -7,7 +7,7 @@ import os
 import streamlit as st
 
 
-st.title("🎈 My new app")
+st.title("Application for Wasif Khan")
 
 
 def extract_images_from_pdf(input_pdf_path):
